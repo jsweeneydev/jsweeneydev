@@ -1,4 +1,4 @@
-My projects moved to BitBucket after M$ bought GitHub and proceeded to ruin it:
+My projects moved to BitBucket after MS bought GitHub:
 
 https://bitbucket.org/jsweeneydev/
 
