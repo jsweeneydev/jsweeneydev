@@ -4,7 +4,7 @@ https://bitbucket.org/jsweeneydev/
 
 Personal website:
 
-http://jsweeneydev.com/
+https://jsweeneydev.com/
 
 Want to hire me?
 
